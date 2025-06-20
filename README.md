@@ -1,5 +1,5 @@
-# CSE331
-UW CSE 331 - Prof. James Wilcox &amp; Kevin Zatloukal (Spring '24)
+# CSE331: Software Design & Implementation
+Prof. James Wilcox &amp; Kevin Zatloukal (SP '24)
 
 Course Description: The goals of this course are teach students to:
 - Reason accurately so that the code they write is likely to work correctly the first time it is run.
